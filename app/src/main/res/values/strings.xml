@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlideTouch</string>
+    <string name="title_activity_main">My Activity Book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="Create">Preparar Atividade</string>
+    <string name="Practice">Executar Atividade</string>
+    <string name="Report">Visualizar Resultados</string>
+
+
+</resources>
